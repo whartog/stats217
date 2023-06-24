@@ -4,7 +4,7 @@
 Office hours
 
 * Office Hours:
-*   Monday
+* *  Monday
 * 8
 * 10
 
