@@ -5,6 +5,6 @@ Files and website for Stanford Stats 217, Summer 2023.
 
 * 7
 * 8
-* 9
+* 10
 
 These are bullet points
